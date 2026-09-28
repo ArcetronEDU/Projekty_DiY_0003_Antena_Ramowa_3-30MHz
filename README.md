@@ -1,5 +1,6 @@
 # Projekty_DiY_0003_Antena_Ramowa_3-30MHz
 Materiały dodatkowe do filmów "Arduino to takie proste" Projekty DiY https://www.youtube.com/@arcetron
+Pliki są w formacie wektorowym [.svg] i możesz je otworzyć i wydrukować używając programu: InkScape
 
 Wszystkie grafiki są mojego autorstwa, możesz je pobrać i używać
 © 2026 ARCETRON https://creativecommons.org/licenses/by-nc/4.0/legalcode.pl
